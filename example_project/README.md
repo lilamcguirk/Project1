@@ -102,6 +102,8 @@ You must write a report about your project. Answer the following questions direc
 
 **Note: Any code that was not authored by yourself or the instructor must be cited in your report. This includes the use of concepts not taught in lecture.**
 
+I used the assert statements which I found here: https://en.cppreference.com/w/cpp/error/assert
+
 ## Submit
 
 You must include your source files, your data file(s), CMakeLists.txt, and your updated README.md file that contains your report to your repository. Submit to Gradescope using the GitHub repository link, double-check that all the correct files are there, and wait for the autograder to provide feedback.
