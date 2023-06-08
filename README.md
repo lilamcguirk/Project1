@@ -24,6 +24,7 @@ For this project, you will:
 * Your data set must contain at least 1000 entries (rows). 
 * Each entry must have at least 5 attributes (columns).
 * At least one attribute must be unique for each entry in the data set (i.e. no duplicates).
+* There must not be any vulgarity in the dataset.
 Keep in mind, you will be using this data set for the rest of the projects this semester.
 
 ### Class
