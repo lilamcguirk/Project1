@@ -14,7 +14,7 @@ For this project, you will:
 
 ### Repository
 
-* Reference the `GitHub-with-CLion` repository for directions on how to set up and use your GitHub repository.
+* Reference the `Getting-Started` repository for directions on how to set up and use your GitHub repository.
 * Use the `Project1` template repository to create a new repository in the course GitHub organization. It must be a **private** repository with the naming convention `Project1-netid` where `netid` is your UVM NetID username.
 * Clone your new repository into CLion. 
 * Frequently save your changes locally and remotely through the commit and push commands.
