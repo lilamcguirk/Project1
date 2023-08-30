@@ -1,4 +1,4 @@
-# CS 124 Project 1
+# CS 2240 Project 1
 Choose a data set, read the information into a C++ program, and perform a calculation on the data
 
 For this project, you will:
